@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Refresh/Java-Refresh.iml" filepath="$PROJECT_DIR$/Java-Refresh/Java-Refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Spring-Boot.iml" filepath="$PROJECT_DIR$/.idea/Java-Spring-Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bazel-project/bazel-bazel-project/bazel-bazel-project.iml" filepath="$PROJECT_DIR$/bazel-project/bazel-bazel-project/bazel-bazel-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bazel-project/src/bazel-project.iml" filepath="$PROJECT_DIR$/bazel-project/src/bazel-project.iml" />
+    </modules>
+  </component>
+</project>
