@@ -1,8 +1,8 @@
 types of constructor
 
-no args constructor
-parametrized constructor
-default constructor
+1. no args constructor
+2. parametrized constructor
+3. default constructor
 
 
 note :
@@ -18,3 +18,4 @@ functional and procedural programming
 in procedural we follow a set of statements basically follow a procedure and execute the function
 
 but in functional we treat a class as a first class citizen like in js and python
+

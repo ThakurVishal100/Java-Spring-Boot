@@ -1,0 +1,4 @@
+it allows us to create new class from an existing class
+
+
+super keyword means it will call the constructor of the super class

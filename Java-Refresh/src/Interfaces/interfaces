@@ -1,0 +1,7 @@
+a class can implements multiple interfaces
+
+one interface can extends another interface
+
+one interface can extends multiple other interfaces also
+
+interfaces are  used in achieve abstraction and multiple inheritance
