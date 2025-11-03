@@ -1,0 +1,8 @@
+Collection framework is a set of interfaces and class used to store and manipulate group of objects efficiently.
+
+collection
+list
+set
+queue
+deque
+map

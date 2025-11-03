@@ -1,0 +1,14 @@
+lambda expression -> no name, no return type, no access modifier
+
+functional interface -> interface in which there is only one abstract method
+
+--  predicate is a functional interface
+
+predicate is a boolean valued function
+
+consumer
+
+supplier
+
+
+method reference -->  use method without invoking and in place of lambda expression
